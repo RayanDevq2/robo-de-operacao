@@ -93,14 +93,22 @@ def arbeitnow():
 
 def gupy():
     """Portal público da Gupy: muitas vagas brasileiras, sem chave."""
+    hosts = ("https://portal.api.gupy.io/api/v1/jobs",
+             "https://employability-portal.gupy.io/api/v1/jobs")
     for term in ("editor de vídeo", "editor de video", "videomaker", "motion designer", "editor audiovisual"):
-        data = get("https://portal.api.gupy.io/api/job",
-                   params={"name": term, "limit": 50, "offset": 0})
-        for j in data.get("data", []):
-            if not relevant(j.get("name", "")):
+        data = None
+        for url in hosts:
+            try:
+                data = get(url, params={"jobName": term, "limit": 50, "offset": 0})
+                break
+            except Exception as e:
+                print(f"gupy ({url.split('/')[2]}) '{term}': {e}", file=sys.stderr)
+        for j in (data or {}).get("data", []):
+            link = j.get("jobUrl")
+            if not link or not relevant(j.get("name", "")):
                 continue
             loc = ", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)
-            yield job("Gupy", j["name"], j.get("careerPageName"), loc or "Brasil", j["jobUrl"],
+            yield job("Gupy", j["name"], j.get("careerPageName"), loc or "Brasil", link,
                       j.get("description", ""), j.get("publishedDate"),
                       bool(j.get("isRemoteWork")), "BR")
 
@@ -210,3 +218,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+ 
