@@ -14,8 +14,8 @@ OUT = Path(__file__).resolve().parent.parent / "data" / "jobs.json"
 UA = {"User-Agent": "vagas-edicao-bot/1.0"}
 KEEP_DAYS = 30
 
-MATCH = re.compile(r"(video|vídeo|videomaker|motion|youtube|reels|tiktok)", re.I)
-ROLE = re.compile(r"(edit|edição|edicao|motion|post-?production|pós-?produção|videomaker)", re.I)
+MATCH = re.compile(r"(video|vídeo|videomaker|motion|animat|animaç|vfx|after effects|youtube|reels|tiktok)", re.I)
+ROLE = re.compile(r"(edit|edição|edicao|motion|animat|animador|animaç|vfx|compositor|post-?production|pós-?produção|videomaker)", re.I)
 BR = re.compile(r"(brazil|brasil|latam|latin america|são paulo|sao paulo|rio de janeiro)", re.I)
 
 
@@ -28,7 +28,7 @@ def clean(text, limit=900):
 
 
 def relevant(title, tags=""):
-    return bool(MATCH.search(title + " " + tags) and ROLE.search(title + " " + tags))
+    return bool(MATCH.search(title + " " + tags) and ROLE.search(title))
 
 
 NICHES = [
@@ -52,13 +52,18 @@ def niche_of(text):
     return "Geral"
 
 
+def niche_for(title, desc):
+    n = niche_of(title)
+    return n if n != "Geral" else niche_of((desc or "")[:1500])
+
+
 def job(source, title, company, location, url, desc, date, remote, region=None):
     region = region or ("BR" if BR.search(location or "") else "INT")
     return {
         "id": url, "source": source, "title": title.strip(), "company": (company or "").strip(),
         "location": (location or "Remoto").strip(), "url": url, "description": clean(desc),
         "date": date, "remote": remote, "region": region,
-        "niche": niche_of(title + " " + (desc or "")[:1500]),
+        "niche": niche_for(title, desc),
     }
 
 
@@ -69,7 +74,7 @@ def get(url, **kw):
 
 
 def remotive():
-    for term in ("video editor", "editor de vídeo", "motion graphics"):
+    for term in ("video editor", "editor de vídeo", "motion graphics", "motion designer", "animator"):
         for j in get("https://remotive.com/api/remote-jobs", params={"search": term}).get("jobs", []):
             if relevant(j["title"], " ".join(j.get("tags", []))):
                 yield job("Remotive", j["title"], j["company_name"], j.get("candidate_required_location"),
@@ -95,7 +100,7 @@ def gupy():
     """Portal público da Gupy: muitas vagas brasileiras, sem chave."""
     hosts = ("https://portal.api.gupy.io/api/v1/jobs",
              "https://employability-portal.gupy.io/api/v1/jobs")
-    for term in ("editor de vídeo", "editor de video", "videomaker", "motion designer", "editor audiovisual"):
+    for term in ("editor de vídeo", "editor de video", "videomaker", "motion designer", "animador", "editor audiovisual"):
         data = None
         for url in hosts:
             try:
@@ -115,7 +120,7 @@ def gupy():
 
 def jobicy():
     """Vagas remotas internacionais."""
-    for tag in ("video", "video editor", "motion"):
+    for tag in ("video", "video editor", "motion", "animation"):
         data = get("https://jobicy.com/api/v2/remote-jobs", params={"count": 50, "tag": tag})
         for j in data.get("jobs", []):
             if relevant(j.get("jobTitle", "")):
@@ -129,7 +134,8 @@ def adzuna():
     if not (app_id and app_key):
         print("Adzuna ignorada (sem chaves).")
         return
-    searches = [("br", "editor de vídeo", "BR"), ("br", "motion designer", "BR"),
+    searches = [("br", "editor de vídeo", "BR"), ("br", "motion designer", "BR"), ("br", "animador", "BR"),
+                ("us", "motion graphics designer", "INT"), ("gb", "motion designer", "INT"),
                 ("us", "video editor", "INT"), ("gb", "video editor", "INT"),
                 ("ca", "video editor", "INT"), ("au", "video editor", "INT")]
     for country, what, region in searches:
@@ -195,7 +201,9 @@ def main():
     jobs = {}
     if OUT.exists():
         for j in json.loads(OUT.read_text("utf-8")).get("jobs", []):
-            jobs[j["id"]] = j
+            if relevant(j["title"]):
+                j["niche"] = niche_for(j["title"], j["description"])
+                jobs[j["id"]] = j
     for source in (gupy, remotive, remoteok, jobicy, arbeitnow, adzuna):
         try:
             n = 0
@@ -218,6 +226,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
- 
