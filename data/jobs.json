@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27T20:35:43.708173+00:00",
+ "updated": "2026-10-27T20:41:56.216740+00:00",
  "best": {
   "id": "https://jobicy.com/jobs/156795-video-editor-2",
-  "date": "2026-10-27T20:35:43.708157+00:00",
+  "date": "2026-10-27T20:41:56.216722+00:00",
   "by": "regra",
   "motivo": "Escolhida por regra simples: recente, com descrição completa, empresa identificada e acessível para quem está no Brasil."
  },
@@ -21,19 +21,6 @@
    "niche": "Motion e animação"
   },
   {
-   "id": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/server-infrastructure-engineer-unannounced-project-london-374515",
-   "source": "Arbeitnow",
-   "title": "Server & Infrastructure Engineer - Unannounced Project",
-   "company": "Nmcareers",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/nmcareers/server-infrastructure-engineer-unannounced-project-london-374515",
-   "description": "<div class=\"content-intro\"><p><strong>Who We Are: </strong><br><br>NaturalMotion is an award-winning UK game studio dedicated to crafting world-class mobile experiences. Alongside our continued live-service development on CSR Racing 2 (#1 drag racing series of all time), our team is stepping into its next chapter with an ambitious, unannounced project. Honoured for eight consecutive years as a GamesIndustry.biz Best Place to Work in the UK winner and named a Top 50 UK Game Maker in 2025 and 2026, we offer a collaborative studio culture backed by the global reach of Zynga and Take-Two Interactive.</p></div><h4><strong>Position Overview:</strong></h4>\n<p>We are seeking a <strong>Server &amp; Infrastructure Engineer </strong>to join our server engineering team. In this role, you will work on core backend systems and backend services, contributing directly to live services and build systems…",
-   "date": "2026-10-27T15:55:21+00:00",
-   "remote": false,
-   "region": "INT",
-   "niche": "Motion e animação"
-  },
-  {
    "id": "https://www.arbeitnow.nl/jobs/companies/bas-group/meewerkstage-marketing-foto-video-editor-veghel-192598",
    "source": "Arbeitnow",
    "title": "Meewerkstage Marketing Foto & Video Editor",
@@ -44,7 +31,7 @@
    "date": "2026-10-27T03:31:19+00:00",
    "remote": false,
    "region": "INT",
-   "niche": "Motion e animação"
+   "niche": "Agência e marketing digital"
   },
   {
    "id": "https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home",
@@ -56,19 +43,6 @@
    "description": "Hi there! Thanks for stopping by \n\n Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place!\n\n We have bike enthusiasts, foodies, video game heroes, dog and cat lovers, movie buffs, musicians, and every variety of people. Lightspeed was founded on the principles of diversity and inclusion and our daily practices and interactions reflect this commitment everyday. Wherever you look, you will find a friend in Lightspeed. \n\n We're looking for a talented Motion Designer (Permanent work from home) to join Lightspeed’s in-house global brand team and help bring our brand to life through engaging visual storytelling. In this role, you’ll support the delivery of creative campaigns and develop compelling motion content for a range of internal and external projects across multiple channels. You’ll play an important role in building a…",
    "date": "2026-10-26T10:54:37+00:00",
    "remote": true,
-   "region": "INT",
-   "niche": "Redes sociais e vídeos curtos"
-  },
-  {
-   "id": "https://www.arbeitnow.ch/jobs/companies/anybotics/senior-reinforcement-learning-engineer-zurich-switzerland-391236",
-   "source": "Arbeitnow",
-   "title": "Senior Reinforcement Learning Engineer",
-   "company": "Anybotics",
-   "location": "Zurich, Switzerland",
-   "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/senior-reinforcement-learning-engineer-zurich-switzerland-391236",
-   "description": "ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 200 people and work on cutting-edge robot technology. \n\n The Opportunity \n\n We are looking for a Senior Reinforcement Learning Engineer to join our Motion Intelligence team. You should bring deep expertise in reinforcement learning and policy optimisation, grounded in real-world robotics experience, and be excited to push the boundaries of autonomous robots. We are looking for someone who can provide senior-level RL and learning-based control guidance across the team — shaping how we train, deploy, and maintain learned policies on physical robots operating in demanding industrial environments.\nBeyond RL expertise, we value engineers who take pride in writing clean, maintainable code, simplifying complex systems…",
-   "date": "2026-10-25T09:26:01+00:00",
-   "remote": false,
    "region": "INT",
    "niche": "Motion e animação"
   },
@@ -84,6 +58,19 @@
    "remote": true,
    "region": "BR",
    "niche": "Redes sociais e vídeos curtos"
+  },
+  {
+   "id": "https://jobicy.com/jobs/153812-creative-motion-design",
+   "source": "Jobicy",
+   "title": "Creative (Motion Design)",
+   "company": "Superside",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/153812-creative-motion-design",
+   "description": "Superside is looking for a motion designer with the creativity, technical expertise, and innovation mindset to push the boundaries of motion design. You’ll work with top global brands, crafting high-impact motion graphics, animated digital ads, Lottie animations, and more, all while collaborating with a world-class, globally distributed team of creatives.\n\n This is a high-ownership role where you’ll contribute to cutting-edge projects, explore new animation technologies, and help shape Superside’s creative motion capabilities.\n\n What you'll do\n\n Design engaging motion graphics for leading global brands across various formats.\n\n Collaborate with dedicated account teams across different time zones.\n\n Work on a number of simultaneous projects, executed with high attention to detail, on time and budget.\n\n Support creative leads to help our customers achieve goals and add business value…",
+   "date": "2026-10-22T06:25:10+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Motion e animação"
   },
   {
    "id": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
