@@ -1,12 +1,25 @@
 {
- "updated": "2026-10-29T15:57:47.497443+00:00",
+ "updated": "2026-10-30T15:44:23.802608+00:00",
  "best": {
   "id": "https://jobicy.com/jobs/156795-video-editor-2",
-  "date": "2026-10-29T15:57:47.497420+00:00",
+  "date": "2026-10-30T15:44:23.802583+00:00",
   "by": "regra",
   "motivo": "Escolhida por regra simples: recente, com descrição completa, empresa identificada e acessível para quem está no Brasil."
  },
  "jobs": [
+  {
+   "id": "https://jobicy.com/jobs/157876-2d-graphic-and-motion-designer",
+   "source": "Jobicy",
+   "title": "2D Graphic and Motion Designer",
+   "company": "Ruby Labs",
+   "location": "Europe",
+   "url": "https://jobicy.com/jobs/157876-2d-graphic-and-motion-designer",
+   "description": "About us\n\n Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ \n\n About the role\n\n We are looking for a designer with strong motion, graphic, and AI skills to join our performance marketing (UA) team. AI is a core part of how we make ads, but it works alongside classic motion design, graphic design, and video editing. In this role, you’ll generate static and video footage with AI tools and bring them to a final result. You’ll work closely with the Lead Designer and Creative Producers on advertising campaigns across multiple platforms, turning ideas and…",
+   "date": "2026-10-29T16:28:33+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
   {
    "id": "https://www.arbeitnow.co.uk/jobs/companies/uforce/video-producer-editor-london-391061",
    "source": "Arbeitnow",
@@ -57,7 +70,7 @@
    "date": "2026-10-24T16:30:23+00:00",
    "remote": true,
    "region": "BR",
-   "niche": "Redes sociais e vídeos curtos"
+   "niche": "Cinema e audiovisual"
   },
   {
    "id": "https://jobicy.com/jobs/153812-creative-motion-design",
