@@ -1,12 +1,25 @@
 {
- "updated": "2026-10-31T15:12:29.123653+00:00",
+ "updated": "2026-11-01T15:54:26.702616+00:00",
  "best": {
   "id": "https://jobicy.com/jobs/156795-video-editor-2",
-  "date": "2026-10-31T15:12:29.123627+00:00",
+  "date": "2026-11-01T15:54:26.702604+00:00",
   "by": "regra",
   "motivo": "Escolhida por regra simples: recente, com descrição completa, empresa identificada e acessível para quem está no Brasil."
  },
  "jobs": [
+  {
+   "id": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/motion-designer-london-380114",
+   "source": "Arbeitnow",
+   "title": "Motion Designer",
+   "company": "Wordsmith",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wordsmith/motion-designer-london-380114",
+   "description": "Motion Designer \n London / Edinburgh \n\n Wordsmith \n Wordsmith is building the legal operations platform for in-house teams, and we are growing fast.\n We believe in-house legal is becoming one of the most important functions in the AI era. Every business is moving faster, but legal work is still too often scattered across inboxes, chats, documents, and disconnected systems.\n Wordsmith brings that work into one system. Requests come in from across the business, AI agents handle the routine, lawyers stay in control where judgment matters, and every step is captured as work happens.\n We are built for in-house legal, not law firms. Our goal is to help legal teams move faster, reduce unnecessary external counsel spend, and become a function the business can run with.\n More than 500 companies, including Financial Times, Safelite, Trip.com, Canva, Starling, and Sage, use Wordsmith. Backed by…",
+   "date": "2026-11-01T12:40:14+00:00",
+   "remote": false,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
   {
    "id": "https://jobicy.com/jobs/157876-2d-graphic-and-motion-designer",
    "source": "Jobicy",
