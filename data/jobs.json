@@ -1,12 +1,51 @@
 {
- "updated": "2026-11-11T16:59:10.701618+00:00",
+ "updated": "2026-11-12T17:27:53.575553+00:00",
  "best": {
   "id": "https://jobicy.com/jobs/156795-video-editor-2",
-  "date": "2026-11-11T16:59:10.701587+00:00",
+  "date": "2026-11-12T17:27:53.575497+00:00",
   "by": "regra",
   "motivo": "Escolhida por regra simples: recente, com descrição completa, empresa identificada e acessível para quem está no Brasil."
  },
  "jobs": [
+  {
+   "id": "https://jobicy.com/jobs/155155-senior-2d-animator",
+   "source": "Jobicy",
+   "title": "Senior 2D Animator",
+   "company": "Playson",
+   "location": "Europe",
+   "url": "https://jobicy.com/jobs/155155-senior-2d-animator",
+   "description": "About the Role \n\n The 2D Animator role at Playson is all about exciting projects and new game mechanics. We're constantly exploring new technologies and optimising our processes. Your ideas will thrive in a dynamic environment where top industry games are created. Enjoy access to the latest tools, plugins, and training!\n\n Key Responsibilities \n\n Create high-quality animations that meet game standards\n\n Pitch ideas for the visual style of features and games\n\n Collaborate with illustrators and product owners to animate characters, environments, and effects\n\n Export and optimise animations for game use\n\n Work with programmers to ensure top-quality animations within technical constraints\n\n Brainstorm new game ideas with the team\n\n Requirements \n\n 3+ years of professional animation experience in Casino Games or similar fields\n\n Solid experience with Esoteric Spine, Adobe After Effects +…",
+   "date": "2026-11-12T03:41:15+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
+  {
+   "id": "https://www.arbeitnow.nl/jobs/companies/everai/mid-senior-ai-cinematic-video-editor-freelance-full-remote-netherlands-47369",
+   "source": "Arbeitnow",
+   "title": "Mid/Senior AI Cinematic Video Editor (Freelance - Full Remote - Netherlands)",
+   "company": "EverAI",
+   "location": "Netherlands",
+   "url": "https://www.arbeitnow.nl/jobs/companies/everai/mid-senior-ai-cinematic-video-editor-freelance-full-remote-netherlands-47369",
+   "description": "Our Vision & Products\n 🚀 EverAI — Building the Future of AI Companionship \n One of the Top 15 Largest & Fastest-Growing AI Companies in the World \n 50 Million Users in 2 years — Help Us Reach 100M first, 500M next \n\n At EverAI , we’re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products — we're creating entirely new categories.\n Our flagship product is the world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is safe, ethical, and human-first .\n And we’re only just getting started! \n\n Our Team\n We are an enthusiastic, passionate and hardworking team of ≈ 100 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO.\n\n Alexis…",
+   "date": "2026-11-11T18:40:17+00:00",
+   "remote": false,
+   "region": "INT",
+   "niche": "Cinema e audiovisual"
+  },
+  {
+   "id": "https://jobicy.com/jobs/161355-principal-senior-vfx-artist",
+   "source": "Jobicy",
+   "title": "Principal/Senior VFX Artist",
+   "company": "HyperHug",
+   "location": "Cyprus",
+   "url": "https://jobicy.com/jobs/161355-principal-senior-vfx-artist",
+   "description": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for motivated individuals who want to grow with us, contribute their creativity, and help shape the future of our games.\n\n We’re looking for a Senior VFX Artist to create high-quality, realistic visual effects for weapon skins and other game content. You’ll own the full VFX pipeline — from developing an effect concept to preparing it for integration.\n\n What You'll Be Doing: \n\n Create mobile-optimized VFX, including effects for weapon skins.\n\n Develop effect concepts based on the provided theme, models, animations, and initial ideas.\n\n Own the full VFX pipeline, from defining…",
+   "date": "2026-11-11T17:13:00+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
   {
    "id": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-motion-planning-engineer-autonomous-driving-land-domain-gilching-275001",
    "source": "Arbeitnow",
@@ -344,19 +383,6 @@
    "remote": true,
    "region": "INT",
    "niche": "Motion e animação"
-  },
-  {
-   "id": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
-   "source": "RemoteOK",
-   "title": "Graphic Designer & Video Editor",
-   "company": "BlueTuskr",
-   "location": "Remoto",
-   "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
-   "description": "Description BlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is made up of specialists who are deeply invested in their craft â and in the success of the brands they serve.\n This isn't a \"jack of all trades\" environment. We hire people who are exceptional at what they do, then give them the resources and autonomy to do it well.\n\n The Opportunity\n We're looking for a Graphic Designer and Video Editor who creates with conversion in mind. You know that a beautiful email that doesn't get clicks isn't finished yet, and that a product page is a sales tool first. This is a hands-on role for someone who has spent real time designing for e-commerce brands â emails, landing pages, website sections, and social/ad creative â and can explain…",
-   "date": "2026-10-13T00:00:06+00:00",
-   "remote": true,
-   "region": "INT",
-   "niche": "Anúncios e tráfego pago"
   }
  ]
 }
