@@ -1,12 +1,51 @@
 {
- "updated": "2026-11-18T17:54:38.965706+00:00",
+ "updated": "2026-11-19T18:06:05.278955+00:00",
  "best": {
-  "id": "https://jobicy.com/jobs/162406-mid-senior-ai-cinematic-video-editor-freelance-full-remote-brazil",
-  "date": "2026-11-18T17:54:38.965664+00:00",
+  "id": "https://jobicy.com/jobs/163171-lead-creative-motion-design",
+  "date": "2026-11-19T18:06:05.278916+00:00",
   "by": "regra",
   "motivo": "Escolhida por regra simples: recente, com descrição completa, empresa identificada e acessível para quem está no Brasil."
  },
  "jobs": [
+  {
+   "id": "https://jobicy.com/jobs/163217-video-editor-3",
+   "source": "Jobicy",
+   "title": "Video Editor",
+   "company": "LevelUp",
+   "location": "Philippines",
+   "url": "https://jobicy.com/jobs/163217-video-editor-3",
+   "description": "Company Overview \n\n LevelUp is a specialized BPO company that partners with technology companies across the US, UK, Europe, and Canada to provide tailored outsourcing solutions. For over seven years, we have built a reputation for delivering high-quality operational and back-office support, helping our clients scale efficiently. Our team consists of highly skilled and passionate professionals dedicated to providing exceptional service, technical expertise, and seamless support to our clients. \n\n Position Overview \n\n We are seeking a talented Video Editor to assist a US-based client in transforming in-house footage into engaging marketing videos for Facebook, YouTube, YouTube Shorts, TikTok, and Instagram. You will handle the entire process, from cutting footage and adding captions to creating motion graphics and exporting optimized files for each platform in a variety of styles. If you…",
+   "date": "2026-11-19T08:41:22+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Redes sociais e vídeos curtos"
+  },
+  {
+   "id": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-actuator-control-locomotion-intern-zurich-495753",
+   "source": "Arbeitnow",
+   "title": "Software Engineer, Robot Autonomy (Actuator Control & Locomotion), Intern",
+   "company": "Laelaps",
+   "location": "Zürich, Switzerland",
+   "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-actuator-control-locomotion-intern-zurich-495753",
+   "description": "Our Mission\n At Laelaps AI, we believe robotics is entering a transformative decade, much like the arrival of the internet. Advances in AI, cloud computing, and hardware are reshaping what autonomous systems can do. Our mission is to build the intelligent software that powers physical security in the real world - enabling robots and sensors to handle dangerous and critical tasks that humans shouldn't have to. By engineering the orchestration layer for intelligent security, we aim to create a world that is safer, more secure, and more resilient.\n We're a strong founding team based in Zurich, backed by visionary investors and advisors. We are engineering the future of security today!\n\n The Role\n As a Software Engineer intern on Robot Autonomy, you'll train locomotion and low-level control policies for our legged security robots and help take them from simulation to real hardware. You'll…",
+   "date": "2026-11-19T06:40:20+00:00",
+   "remote": false,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
+  {
+   "id": "https://jobicy.com/jobs/163171-lead-creative-motion-design",
+   "source": "Jobicy",
+   "title": "Lead Creative (Motion Design)",
+   "company": "Superside",
+   "location": "LATAM",
+   "url": "https://jobicy.com/jobs/163171-lead-creative-motion-design",
+   "description": "Superside is looking for a Lead Creative (Motion Design) to push the boundaries of what’s possible in motion and animation. \n\n In this role, you’ll lead a global team of top-tier creatives, delivering world-class motion graphics, digital ads, explainer videos, promos, animated presentations, and more. You’ll shape creative strategy, inspire your team, and partner with leading global brands to deliver impactful work that blends craft, innovation, and cutting-edge technology.\n\n What You'll Do\n\n Lead and inspire a team of motion designers, driving creative excellence and innovation across projects.\n\n Own the creative strategy, workflow, and delivery of multiple projects, ensuring quality, timeliness, and budget alignment.\n\n Collaborate with your dedicated account teams to successfully grow and develop our customers\n\n Partner directly with global brands, presenting work and building trust…",
+   "date": "2026-11-18T15:49:07+00:00",
+   "remote": true,
+   "region": "BR",
+   "niche": "Anúncios e tráfego pago"
+  },
   {
    "id": "https://www.arbeitnow.com/jobs/companies/kleeblatt-medien-gmbh/praktikum-im-2d-bereich-grafikdesign-animation-und-postproduktion-augsburg-69473",
    "source": "Arbeitnow",
