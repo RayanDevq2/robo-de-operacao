@@ -1,12 +1,51 @@
 {
- "updated": "2026-11-23T21:01:58.369888+00:00",
+ "updated": "2026-11-24T20:02:26.702679+00:00",
  "best": {
   "id": "https://jobicy.com/jobs/163171-lead-creative-motion-design",
-  "date": "2026-11-23T21:01:58.369858+00:00",
+  "date": "2026-11-24T20:02:26.702647+00:00",
   "by": "regra",
   "motivo": "Escolhida por regra simples: recente, com descrição completa, empresa identificada e acessível para quem está no Brasil."
  },
  "jobs": [
+  {
+   "id": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-motion-design-mainz-oder-berlin-90843",
+   "source": "Arbeitnow",
+   "title": "Werkstudent*in Motion Design (m/w/d)",
+   "company": "ZDF Digital Medienproduktion GmbH",
+   "location": "Mainz oder Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-motion-design-mainz-oder-berlin-90843",
+   "description": "Stellendetails Für unsere Standorte Mainz oder Berlin suchen wir zum nächstmöglichen Zeitpunkt für bis zu 20 Wochenstunden und zunächst befristet eine*n Werkstudent*in Motion Design (m/w/d).\n\n Deine Aufgaben Als Werkstudent*in Motion Design (w/m/d) bist du Teil eines Teams, das spannenden, kreativen und unterhaltsamen Content auf Social Media Plattformen veröffentlicht.\n Du unterstützt bei der Erstellung von Content-Pieces anhand von Konzepten für verschiedene Social Media Plattformen\n Du beteiligst dich an der Kreation von Infografiken, Bildposts, Videos, Reels und Stories, je nach Projekt auch an Illustrationen\n Du schneidest Videos plattformgerecht und hast ein gutes Gespür für Social Media Trends\n Du arbeitest eng mit Motion Designer*innen und der Redaktion zusammen und erhältst dabei viele Einblicke in andere Gewerke\n\n Dein Profil Du absolvierst gerade ein Studium im Bereich…",
+   "date": "2026-11-24T15:32:55+00:00",
+   "remote": false,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
+  {
+   "id": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-grafik-motion-design-mainz-345629",
+   "source": "Arbeitnow",
+   "title": "Werkstudent*in Grafik- & Motion-Design (m/w/d)",
+   "company": "ZDF Digital Medienproduktion GmbH",
+   "location": "Mainz",
+   "url": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-grafik-motion-design-mainz-345629",
+   "description": "Stellendetails Für unseren Standort Mainz   suchen wir zum nächstmöglichen Zeitpunkt für bis zu 20 Wochenstunden und zunächst befristet eine*n Werkstudent*in Grafik- & Motion-Design (m/w/d).\n\n Deine Aufgaben Du setzt visuelle Inhalte um – von Motion Graphics und Animationen bis zu Videoformaten, inkl. Schnitt und Postproduktion – z. B. für Streaming-Content, Infografiken oder Visuals für Film/Dokus\n Du setzt kreative Designkonzepte im Einklang mit der Markenidentität um\n Du optimierst Inhalte für verschiedene Plattformen und Formate (Web, Social, Video, Print)\n Du bereitest Dateien für unterschiedliche Ausgabekanäle (Web, Print, Video) vor und exportierst diese\n Du recherchierst aktuelle Design- und Motion-Trends\n Du bringst erste Erfahrungen im 3D-Bereich sowie Interesse an bzw. Erfahrung im Umgang mit KI-Tools im kreativen Workflow mit\n\n Dein Profil Du hast ein Studium im Bereich…",
+   "date": "2026-11-24T15:32:55+00:00",
+   "remote": false,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
+  {
+   "id": "https://jobicy.com/jobs/164045-generative-motion-artist",
+   "source": "Jobicy",
+   "title": "Generative Motion Artist",
+   "company": "Moon Active",
+   "location": "Spain",
+   "url": "https://jobicy.com/jobs/164045-generative-motion-artist",
+   "description": "Moon Active , a leading global mobile game developer entertaining millions worldwide, is seeking a highly skilled and creative Generative Motion Artist to join the in-house video creative team of our Marketing Art Studio.\n\n In this role, you will own video ad creatives end to end, from brief to delivery, across our portfolio: Coin Master, Travel Town, Reality Bay, Family Bay and more. You will create everything from scroll-stopping hooks and gameplay mechanics to rich narrative storytelling ads, at the pace and volume performance marketing demands.\n\n You will direct generative tools (such as Seedance, Kling, Veo, Nano Banana 2, ChatGPT Image 2, ComfyUI, Suno, ElevenLabs , and others) alongside After Effects and Photoshop , combining the speed of AI with the storytelling fundamentals that make a shot work.\n\n Apply today if you are passionate about video, storytelling, gaming and…",
+   "date": "2026-11-24T09:29:04+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
   {
    "id": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/video-content-editor-london-29938",
    "source": "Arbeitnow",
