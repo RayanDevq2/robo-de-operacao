@@ -1,12 +1,38 @@
 {
- "updated": "2026-11-24T20:02:26.702679+00:00",
+ "updated": "2026-11-25T19:03:27.370494+00:00",
  "best": {
   "id": "https://jobicy.com/jobs/163171-lead-creative-motion-design",
-  "date": "2026-11-24T20:02:26.702647+00:00",
+  "date": "2026-11-25T19:03:27.370460+00:00",
   "by": "regra",
   "motivo": "Escolhida por regra simples: recente, com descrição completa, empresa identificada e acessível para quem está no Brasil."
  },
  "jobs": [
+  {
+   "id": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-vfx-artist-freelance-talent-pool-2027-opportunities-netherlands-243915",
+   "source": "Arbeitnow",
+   "title": "Senior Technical/ VFX Artist - Freelance Talent Pool (2027 Opportunities)",
+   "company": "Keywords Intl1",
+   "location": "Netherlands",
+   "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-technical-vfx-artist-freelance-talent-pool-2027-opportunities-netherlands-243915",
+   "description": "This is a fully remote ongoing freelance only position. You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status.\n We are looking for an experienced freelance Senior Technical/ VFX artists with the ability to integrate and contribute to the team creating innovative experiences via realistic, cool animations, particle simulations and spot effects. \n Proven experience in Unreal 4/ 5, technical expertise with Maya are certainly of benefit. \n\n Requirements \n 2/3 years industry experience\n Some experience creating realistic style particle simulations \n Creative and self motivated \n Strong and versatile VFX skills \n Experience in Unreal 4/ 5 \n Experience using Maya \n HoudiniFX knowledge \n Extremely quality oriented \n Experience with material shaders \n Blueprint experience \n Strong verbal, written and visual communication skills \n…",
+   "date": "2026-11-25T13:20:12+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
+  {
+   "id": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-animator-technical-animator-freelance-talent-pool-2027-opportunities-netherlands-420497",
+   "source": "Arbeitnow",
+   "title": "Senior Animator/ Technical Animator - Freelance Talent Pool (2027 Opportunities",
+   "company": "Keywords Intl1",
+   "location": "Netherlands",
+   "url": "https://www.arbeitnow.nl/jobs/companies/keywords-intl1/remote-senior-animator-technical-animator-freelance-talent-pool-2027-opportunities-netherlands-420497",
+   "description": "This is a fully remote ongoing freelance only position.  You will hear directly from our Talent Acquisition team once we have an update for you regarding your application status.\n We are looking for experienced and multi-talented freelance Senior Animator/ Technical Animator you should be a senior-level animator with gameplay animation experience. Have excellent technical ability and be able to work collaboratively with animation programmers and designers.\n\n Requirements \n You will need experience with UE5 and have an advanced knowledge of Maya. \n MotionBuilder experience would be highly beneficial. \n A keen eye for detail and the ability to deliver dynamic realistic hand keyed animations. \n You will have a first class understanding of the principles of animation with a solid folio displaying this\n Strong Proficiency with UE5 animation systems (blend trees, state machines, animation…",
+   "date": "2026-11-25T13:20:12+00:00",
+   "remote": true,
+   "region": "INT",
+   "niche": "Motion e animação"
+  },
   {
    "id": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-motion-design-mainz-oder-berlin-90843",
    "source": "Arbeitnow",
@@ -773,19 +799,6 @@
    "remote": false,
    "region": "INT",
    "niche": "Agência e marketing digital"
-  },
-  {
-   "id": "https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home",
-   "source": "Jobicy",
-   "title": "Motion Designer (Permanent work from home)",
-   "company": "Lightspeed Commerce",
-   "location": "Philippines",
-   "url": "https://jobicy.com/jobs/157142-motion-designer-permanent-work-from-home",
-   "description": "Hi there! Thanks for stopping by \n\n Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place!\n\n We have bike enthusiasts, foodies, video game heroes, dog and cat lovers, movie buffs, musicians, and every variety of people. Lightspeed was founded on the principles of diversity and inclusion and our daily practices and interactions reflect this commitment everyday. Wherever you look, you will find a friend in Lightspeed. \n\n We're looking for a talented Motion Designer (Permanent work from home) to join Lightspeed’s in-house global brand team and help bring our brand to life through engaging visual storytelling. In this role, you’ll support the delivery of creative campaigns and develop compelling motion content for a range of internal and external projects across multiple channels. You’ll play an important role in building a…",
-   "date": "2026-10-26T10:54:37+00:00",
-   "remote": true,
-   "region": "INT",
-   "niche": "Motion e animação"
   }
  ]
 }
